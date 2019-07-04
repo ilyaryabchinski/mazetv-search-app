@@ -1,0 +1,15 @@
+ul {
+    list-style-type: none;
+}
+
+
+.cast-list__item {
+    margin-top: 5px;
+    border: 1px solid black;
+    padding: 5px;
+    max-width: 20%;
+}
+
+.cast-list__item span {
+    display: block;
+}
