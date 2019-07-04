@@ -1,6 +1,6 @@
 # TVMAZE API Search app
 
-App for scrap movies from TVMAZE API using native JavaScript + Fetch API + Service Worker API
+App for scrapping movies from TVMAZE API using native JavaScript + Fetch API + Service Worker API
 
 
 
